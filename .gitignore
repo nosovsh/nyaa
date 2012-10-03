@@ -1,0 +1,6 @@
+*~
+*.pyc
+/db/
+/.idea/*
+fabfile.py
+.DS_Store
